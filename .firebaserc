@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "gradewise-e8a94",
+    "staging": "gradewise-e8a94"
+  },
+  "targets": {},
+  "etags": {}
+}

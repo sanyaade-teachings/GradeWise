@@ -1,0 +1,9 @@
+[
+    {
+      "origin": ["http://localhost:3000", "https://gradewise.app"],
+      "method": ["GET", "POST", "PUT", "DELETE"],
+      "responseHeader": ["Content-Type"],
+      "maxAgeSeconds": 3600
+    }
+  ]
+  
